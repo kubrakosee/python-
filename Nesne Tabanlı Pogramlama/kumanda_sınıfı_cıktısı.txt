@@ -1,0 +1,134 @@
+C:\Users\ebru\PycharmProjects\calýsma\venv\Scripts\python.exe "C:/Users/ebru/PycharmProjects/calýsma/Nesne Tabanlý Pogramlama/kumanda_sýnýfý.py"
+
+Televizyon Uygulamasý
+
+1.Tv Aç
+
+2.Tv Kapat
+
+3.Ses Ayarlarý
+
+4.Kanal Ekleme
+
+5.Kanal Sayýsýný Öðrenme
+
+6.Rastgele Kanala Geçme
+
+7.Televizyon Bilgileri
+
+Çýkmak için 'q'ya basýn
+
+
+
+Ýþlemi Seçiniz:7
+TV Durumu:Kapalý
+ TV Ses:0
+Kanal Listesi:['Trt']
+Þu Anki Kanal:Trt
+
+Ýþlemi Seçiniz:1
+Televizyon Açýlýyor...
+Ýþlemi Seçiniz:1
+Televizyon Zaten Açýk....
+Ýþlemi Seçiniz:2
+Televizyon Kapanýyor...
+Ýþlemi Seçiniz:2
+Televizyon Zaten Kapalý
+Ýþlemi Seçiniz:1
+Televizyon Açýlýyor...
+Ýþlemi Seçiniz:3
+Sesi Azalt:'<'
+Sesi Artýr:'>'
+Çýkýþ:çýkýþ>
+Ses: 1
+Sesi Azalt:'<'
+Sesi Artýr:'>'
+Çýkýþ:çýkýþ>
+Ses: 2
+Sesi Azalt:'<'
+Sesi Artýr:'>'
+Çýkýþ:çýkýþ>
+Ses: 3
+Sesi Azalt:'<'
+Sesi Artýr:'>'
+Çýkýþ:çýkýþ>
+Ses: 4
+Sesi Azalt:'<'
+Sesi Artýr:'>'
+Çýkýþ:çýkýþ>
+Ses: 5
+Sesi Azalt:'<'
+Sesi Artýr:'>'
+Çýkýþ:çýkýþ>
+Ses: 6
+Sesi Azalt:'<'
+Sesi Artýr:'>'
+Çýkýþ:çýkýþ>
+Ses: 7
+Sesi Azalt:'<'
+Sesi Artýr:'>'
+Çýkýþ:çýkýþ>
+Ses: 8
+Sesi Azalt:'<'
+Sesi Artýr:'>'
+Çýkýþ:çýkýþ>
+Ses: 9
+Sesi Azalt:'<'
+Sesi Artýr:'>'
+Çýkýþ:çýkýþ>
+Ses: 10
+Sesi Azalt:'<'
+Sesi Artýr:'>'
+Çýkýþ:çýkýþ>
+Ses: 11
+Sesi Azalt:'<'
+Sesi Artýr:'>'
+Çýkýþ:çýkýþ>
+Ses: 12
+Sesi Azalt:'<'
+Sesi Artýr:'>'
+Çýkýþ:çýkýþ<
+Ses: 11
+Sesi Azalt:'<'
+Sesi Artýr:'>'
+Çýkýþ:çýkýþçýkýþ
+Ses Güncellendi: 11
+Ýþlemi Seçiniz:4
+Kanal Ýsimleri ', 'ile ayýrarak girin:atv,kanal7,show,star
+Kanal ekleniyor...
+Kanal Eklendi....
+Kanal ekleniyor...
+Kanal Eklendi....
+Kanal ekleniyor...
+Kanal Eklendi....
+Kanal ekleniyor...
+Kanal Eklendi....
+Ýþlemi Seçiniz:7
+TV Durumu:Açýk
+ TV Ses:11
+Kanal Listesi:['Trt', 'atv', 'kanal7', 'show', 'star']
+Þu Anki Kanal:Trt
+
+Ýþlemi Seçiniz:6
+Þu Anki Kanal: Trt
+Ýþlemi Seçiniz:6
+Þu Anki Kanal: Trt
+Ýþlemi Seçiniz:6
+Þu Anki Kanal: show
+Ýþlemi Seçiniz:6
+Þu Anki Kanal: kanal7
+Ýþlemi Seçiniz:6
+Þu Anki Kanal: Trt
+Ýþlemi Seçiniz:6
+Þu Anki Kanal: atv
+Ýþlemi Seçiniz:6
+Þu Anki Kanal: show
+Ýþlemi Seçiniz:6
+Þu Anki Kanal: atv
+Ýþlemi Seçiniz:6
+Þu Anki Kanal: kanal7
+Ýþlemi Seçiniz:6
+Þu Anki Kanal: atv
+Ýþlemi Seçiniz:5
+Kanal Sayýsý: 5
+Ýþlemi Seçiniz:
